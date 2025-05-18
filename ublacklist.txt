@@ -1,3 +1,7 @@
+---
+name: haber-siteleri-engel-listesi
+homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
+---
 *://*.05.com.tr/*
 *://*.08haber.com/*
 *://*.10haber.net/*

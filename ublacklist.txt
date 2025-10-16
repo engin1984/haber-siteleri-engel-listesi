@@ -2,9 +2,6 @@
 name: haber-siteleri-engel-listesi
 homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 ---
-*://*.haber.tr/*
-*://*.haber.com.tr/*
-*://*.haber.com/*
 *://*.05.com.tr/*
 *://*.08haber.com/*
 *://*.10haber.net/*
@@ -38,6 +35,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.almanyabulteni.de/*
 *://*.amerikaninsesi.com/*
 *://*.anadolugazetesi.com/*
+*://*.anews.com.tr/*
 *://*.ankara.edu.tr/*
 *://*.ankarahaber.com/*
 *://*.ankaramasasi.com.tr/*
@@ -68,6 +66,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.bianet.org/*
 *://*.bilecikhaber.com.tr/*
 *://*.birgun.net/*
+*://*.birhaberoku.com/*
 *://*.birmanset.com/*
 *://*.bloomberght.com/*
 *://*.bolgegundem.com/*
@@ -120,6 +119,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.egepostasi.com/*
 *://*.elbistaninsesi.com/*
 *://*.elele.com.tr/*
+*://*.elmundo.es/*
 *://*.emlakkulisi.com/*
 *://*.enkocaeli.com/*
 *://*.ensonhaber.com/*
@@ -171,11 +171,14 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.gunhaber.com.tr/*
 *://*.gursesgazetesi.com/*
 *://*.haber.ba/*
+*://*.haber.com.tr/*
+*://*.haber.com/*
 *://*.haber.com/*
 *://*.haber.dk/*
 *://*.haber.dpu.edu.tr/*
 *://*.haber.evrim.com/*
 *://*.haber.nl/*
+*://*.haber.tr/*
 *://*.haber.yasar.edu.tr/*
 *://*.haber01.com/*
 *://*.haber06.com.tr/*
@@ -226,6 +229,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.habergazetesi.com.tr/*
 *://*.haberglobal.com.tr/*
 *://*.haberglobal.com.tr/*
+*://*.habergo.com.tr/*
 *://*.haberim.net.tr/*
 *://*.haberiniz.com.tr/*
 *://*.haberinyeri.net/*
@@ -426,12 +430,12 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.sabahspot.com/*
 *://*.sabahulkesi.com/*
 *://*.sabahvefat.com/*
-*://*.saglik.gov.tr/*
 *://*.saglikpersoneli.com.tr/*
 *://*.sakaryagazetesi.com.tr/*
 *://*.sakaryayenihaber.com/*
 *://*.samanyoluhaber.com/*
 *://*.samsunhaber.com/*
+*://*.sana.sy/*
 *://*.sanayi.gov.tr/*
 *://*.scroll.com.tr/*
 *://*.sehrivangazetesi.com/*
@@ -484,6 +488,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.szctv.com.tr/*
 *://*.t24.com.tr/*
 *://*.t54.com.tr/*
+*://*.tabii.com/*
 *://*.takagazete.com.tr/*
 *://*.takvim.com.tr/*
 *://*.tccb.gov.tr/*
@@ -499,6 +504,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.timeturk.com/*
 *://*.tjk.org/*
 *://*.tokathaber.com.tr/*
+*://*.toki.gov.tr/*
 *://*.tr724.com/*
 *://*.trhaber.com/*
 *://*.trthaber.com/*
@@ -518,6 +524,7 @@ homepage: https://github.com/engin1984/haber-siteleri-engel-listesi
 *://*.tv100.com/*
 *://*.tvf.org.tr/*
 *://*.twitter.com/*
+*://*.ua.gov.tr/*
 *://*.uab.gov.tr/*
 *://*.ukrhaber.com/*
 *://*.unyekent.com/*
